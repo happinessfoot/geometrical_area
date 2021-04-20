@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/geometrical_area" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
